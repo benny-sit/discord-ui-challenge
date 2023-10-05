@@ -1,0 +1,162 @@
+.icon-discord {
+  @apply bg-misc-logo aspect-square;
+
+  -webkit-mask: url(/icons/discord-logo.svg) no-repeat center;
+  mask: url(/icons/discord-logo.svg) no-repeat center;
+  background-position: center;
+  background-size: auto auto;
+}
+
+.icon-plus {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/plus.svg) no-repeat center;
+  mask: url(/icons/plus.svg) no-repeat center;
+}
+
+.icon-download {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/download.svg) no-repeat center;
+  mask: url(/icons/download.svg) no-repeat center;
+}
+
+.icon-arrow-down {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/arrow-down.svg) no-repeat center;
+  mask: url(/icons/arrow-down.svg) no-repeat center;
+}
+
+.icon-compass {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/compass.svg) no-repeat center;
+  mask: url(/icons/compass.svg) no-repeat center;
+}
+
+.icon-hash {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/hash.svg) no-repeat center;
+  mask: url(/icons/hash.svg) no-repeat center;
+}
+
+.icon-speaker {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/speaker.svg) no-repeat center;
+  mask: url(/icons/speaker.svg) no-repeat center;
+}
+
+.icon-mute {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/mute.svg) no-repeat center;
+  mask: url(/icons/mute.svg) no-repeat center;
+}
+
+.icon-headphones {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/headphones.svg) no-repeat center;
+  mask: url(/icons/headphones.svg) no-repeat center;
+}
+
+.icon-settings {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/settings.svg) no-repeat center;
+  mask: url(/icons/settings.svg) no-repeat center;
+}
+
+.icon-message-thread {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/message-thread.svg) no-repeat center;
+  mask: url(/icons/message-thread.svg) no-repeat center;
+}
+
+.icon-bell {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/bell.svg) no-repeat center;
+  mask: url(/icons/bell.svg) no-repeat center;
+}
+
+.icon-pin {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/pin.svg) no-repeat center;
+  mask: url(/icons/pin.svg) no-repeat center;
+}
+
+.icon-users {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/users.svg) no-repeat center;
+  mask: url(/icons/users.svg) no-repeat center;
+}
+
+.icon-inbox {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/inbox.svg) no-repeat center;
+  mask: url(/icons/inbox.svg) no-repeat center;
+}
+
+.icon-circle-question {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/circle-question.svg) no-repeat center;
+  mask: url(/icons/circle-question.svg) no-repeat center;
+}
+
+.icon-search {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/search.svg) no-repeat center;
+  mask: url(/icons/search.svg) no-repeat center;
+}
+
+.icon-pencil {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/pencil.svg) no-repeat center;
+  mask: url(/icons/pencil.svg) no-repeat center;
+}
+
+.icon-circle-plus {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/circle-plus.svg) no-repeat center;
+  mask: url(/icons/circle-plus.svg) no-repeat center;
+}
+
+.icon-gif {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/gif.svg) no-repeat center;
+  mask: url(/icons/gif.svg) no-repeat center;
+}
+
+.icon-gift {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/gift.svg) no-repeat center;
+  mask: url(/icons/gift.svg) no-repeat center;
+}
+
+.icon-sticker {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/sticker.svg) no-repeat center;
+  mask: url(/icons/sticker.svg) no-repeat center;
+}
+
+.icon-create-invite {
+  @apply bg-gray-icon aspect-square;
+
+  -webkit-mask: url(/icons/create-invite.svg) no-repeat center;
+  mask: url(/icons/create-invite.svg) no-repeat center;
+}
