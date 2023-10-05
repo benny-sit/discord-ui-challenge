@@ -9,4 +9,5 @@ export default defineConfig({
     outDir: 'dist',
   },
   publicDir: 'public',
+  base: '/discord-ui-challenge/',
 });
